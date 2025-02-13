@@ -85,7 +85,7 @@ button:hover {
     
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
     body {
         padding: 3vh 5vw;
         height: 100vh;
